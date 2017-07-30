@@ -14,7 +14,6 @@ BOT_NAME = 'horses'
 SPIDER_MODULES = ['horses.spiders']
 NEWSPIDER_MODULE = 'horses.spiders'
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'horse_raising (+http://www.yourdomain.com)'
 
