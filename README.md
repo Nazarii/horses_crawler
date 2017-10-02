@@ -8,6 +8,6 @@ a real-time matrix from it. Code should either print matrix to screen or save it
 
 file, which should update at given interval (by default every 5 minutes).
 
-## Usage: ##
+### Usage: ###
 `pip install -r requirements.txt
 python main.py`
