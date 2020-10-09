@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 from horses.spiders.horses_spider import HorsesSpider
 import logging
 import pandas as pd
